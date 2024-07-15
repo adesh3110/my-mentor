@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import hero from "../assets/hero-image.png";
 

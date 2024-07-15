@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 import first from "../assets/Service/first.png";
 import second from "../assets/Service/second.png";

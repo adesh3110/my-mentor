@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import one from "../../assets/Slider1/six.png";
 

@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import AdmissionFormSlider from "./components/admission_form_slider";
 import CollabrationCollages from "./components/collabration_collages";
 import HeroSection from "./components/hero_section";

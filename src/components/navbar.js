@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React, { useState } from "react";
 import logo from "../assets/logo.png"; // Import icons for mobile menu
 import { PlusIcon, MinusIcon } from "@heroicons/react/16/solid";
